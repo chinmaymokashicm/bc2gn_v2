@@ -1,0 +1,7 @@
+Term: from lexicon
+Text: from annotations
+
+1. Create term-text pairs
+2. Generate similarity measures
+3. Rank term-text pairs
+4. Run models

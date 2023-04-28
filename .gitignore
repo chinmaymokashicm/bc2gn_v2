@@ -1,0 +1,8 @@
+original_data/
+*.csv
+*.npy
+*.pkl
+*.pth
+*.pyc
+results/siameseBERT/logs/
+!test_results.csv
